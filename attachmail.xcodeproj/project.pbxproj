@@ -18,6 +18,20 @@
 		243E6CF117C3B359007080A0 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 243E6CF017C3B359007080A0 /* Default-568h@2x.png */; };
 		243E6CF417C3B359007080A0 /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 243E6CF217C3B359007080A0 /* MainStoryboard.storyboard */; };
 		243E6CF717C3B359007080A0 /* wygjywViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 243E6CF617C3B359007080A0 /* wygjywViewController.m */; };
+		243E6CFF17C3B62E007080A0 /* wygjywViewControllerCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 243E6CFE17C3B62E007080A0 /* wygjywViewControllerCell.m */; };
+		243E6D0E17C3BD52007080A0 /* 10 Great iPhone Tips.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 243E6D0117C3BD52007080A0 /* 10 Great iPhone Tips.pdf */; };
+		243E6D0F17C3BD52007080A0 /* camera-photo-tips.html in Resources */ = {isa = PBXBuildFile; fileRef = 243E6D0217C3BD52007080A0 /* camera-photo-tips.html */; };
+		243E6D1017C3BD52007080A0 /* foggy.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 243E6D0317C3BD52007080A0 /* foggy.jpg */; };
+		243E6D1117C3BD52007080A0 /* Hello World.ppt in Resources */ = {isa = PBXBuildFile; fileRef = 243E6D0417C3BD52007080A0 /* Hello World.ppt */; };
+		243E6D1217C3BD52007080A0 /* icon0.png in Resources */ = {isa = PBXBuildFile; fileRef = 243E6D0517C3BD52007080A0 /* icon0.png */; };
+		243E6D1317C3BD52007080A0 /* icon1.png in Resources */ = {isa = PBXBuildFile; fileRef = 243E6D0617C3BD52007080A0 /* icon1.png */; };
+		243E6D1417C3BD52007080A0 /* icon2.png in Resources */ = {isa = PBXBuildFile; fileRef = 243E6D0717C3BD52007080A0 /* icon2.png */; };
+		243E6D1517C3BD52007080A0 /* icon3.png in Resources */ = {isa = PBXBuildFile; fileRef = 243E6D0817C3BD52007080A0 /* icon3.png */; };
+		243E6D1617C3BD52007080A0 /* icon4.png in Resources */ = {isa = PBXBuildFile; fileRef = 243E6D0917C3BD52007080A0 /* icon4.png */; };
+		243E6D1717C3BD52007080A0 /* icon5.png in Resources */ = {isa = PBXBuildFile; fileRef = 243E6D0A17C3BD52007080A0 /* icon5.png */; };
+		243E6D1817C3BD52007080A0 /* media.png in Resources */ = {isa = PBXBuildFile; fileRef = 243E6D0B17C3BD52007080A0 /* media.png */; };
+		243E6D1917C3BD52007080A0 /* no more complaint.png in Resources */ = {isa = PBXBuildFile; fileRef = 243E6D0C17C3BD52007080A0 /* no more complaint.png */; };
+		243E6D1A17C3BD52007080A0 /* Why Appcoda.doc in Resources */ = {isa = PBXBuildFile; fileRef = 243E6D0D17C3BD52007080A0 /* Why Appcoda.doc */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +51,21 @@
 		243E6CF317C3B359007080A0 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
 		243E6CF517C3B359007080A0 /* wygjywViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = wygjywViewController.h; sourceTree = "<group>"; };
 		243E6CF617C3B359007080A0 /* wygjywViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = wygjywViewController.m; sourceTree = "<group>"; };
+		243E6CFD17C3B62E007080A0 /* wygjywViewControllerCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = wygjywViewControllerCell.h; sourceTree = "<group>"; };
+		243E6CFE17C3B62E007080A0 /* wygjywViewControllerCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = wygjywViewControllerCell.m; sourceTree = "<group>"; };
+		243E6D0117C3BD52007080A0 /* 10 Great iPhone Tips.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "10 Great iPhone Tips.pdf"; sourceTree = "<group>"; };
+		243E6D0217C3BD52007080A0 /* camera-photo-tips.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = "camera-photo-tips.html"; sourceTree = "<group>"; };
+		243E6D0317C3BD52007080A0 /* foggy.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = foggy.jpg; sourceTree = "<group>"; };
+		243E6D0417C3BD52007080A0 /* Hello World.ppt */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Hello World.ppt"; sourceTree = "<group>"; };
+		243E6D0517C3BD52007080A0 /* icon0.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon0.png; sourceTree = "<group>"; };
+		243E6D0617C3BD52007080A0 /* icon1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon1.png; sourceTree = "<group>"; };
+		243E6D0717C3BD52007080A0 /* icon2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon2.png; sourceTree = "<group>"; };
+		243E6D0817C3BD52007080A0 /* icon3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon3.png; sourceTree = "<group>"; };
+		243E6D0917C3BD52007080A0 /* icon4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon4.png; sourceTree = "<group>"; };
+		243E6D0A17C3BD52007080A0 /* icon5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon5.png; sourceTree = "<group>"; };
+		243E6D0B17C3BD52007080A0 /* media.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = media.png; sourceTree = "<group>"; };
+		243E6D0C17C3BD52007080A0 /* no more complaint.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "no more complaint.png"; sourceTree = "<group>"; };
+		243E6D0D17C3BD52007080A0 /* Why Appcoda.doc */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Why Appcoda.doc"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +85,7 @@
 		243E6CCE17C3B359007080A0 = {
 			isa = PBXGroup;
 			children = (
+				243E6D0017C3BD52007080A0 /* images */,
 				243E6CE017C3B359007080A0 /* attachmail */,
 				243E6CD917C3B359007080A0 /* Frameworks */,
 				243E6CD817C3B359007080A0 /* Products */,
@@ -86,6 +116,8 @@
 				243E6CE917C3B359007080A0 /* wygjywAppDelegate.h */,
 				243E6CEA17C3B359007080A0 /* wygjywAppDelegate.m */,
 				243E6CF217C3B359007080A0 /* MainStoryboard.storyboard */,
+				243E6CFD17C3B62E007080A0 /* wygjywViewControllerCell.h */,
+				243E6CFE17C3B62E007080A0 /* wygjywViewControllerCell.m */,
 				243E6CF517C3B359007080A0 /* wygjywViewController.h */,
 				243E6CF617C3B359007080A0 /* wygjywViewController.m */,
 				243E6CE117C3B359007080A0 /* Supporting Files */,
@@ -105,6 +137,27 @@
 				243E6CF017C3B359007080A0 /* Default-568h@2x.png */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		243E6D0017C3BD52007080A0 /* images */ = {
+			isa = PBXGroup;
+			children = (
+				243E6D0117C3BD52007080A0 /* 10 Great iPhone Tips.pdf */,
+				243E6D0217C3BD52007080A0 /* camera-photo-tips.html */,
+				243E6D0317C3BD52007080A0 /* foggy.jpg */,
+				243E6D0417C3BD52007080A0 /* Hello World.ppt */,
+				243E6D0517C3BD52007080A0 /* icon0.png */,
+				243E6D0617C3BD52007080A0 /* icon1.png */,
+				243E6D0717C3BD52007080A0 /* icon2.png */,
+				243E6D0817C3BD52007080A0 /* icon3.png */,
+				243E6D0917C3BD52007080A0 /* icon4.png */,
+				243E6D0A17C3BD52007080A0 /* icon5.png */,
+				243E6D0B17C3BD52007080A0 /* media.png */,
+				243E6D0C17C3BD52007080A0 /* no more complaint.png */,
+				243E6D0D17C3BD52007080A0 /* Why Appcoda.doc */,
+			);
+			name = images;
+			path = attachmail/images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -164,6 +217,19 @@
 				243E6CEF17C3B359007080A0 /* Default@2x.png in Resources */,
 				243E6CF117C3B359007080A0 /* Default-568h@2x.png in Resources */,
 				243E6CF417C3B359007080A0 /* MainStoryboard.storyboard in Resources */,
+				243E6D0E17C3BD52007080A0 /* 10 Great iPhone Tips.pdf in Resources */,
+				243E6D0F17C3BD52007080A0 /* camera-photo-tips.html in Resources */,
+				243E6D1017C3BD52007080A0 /* foggy.jpg in Resources */,
+				243E6D1117C3BD52007080A0 /* Hello World.ppt in Resources */,
+				243E6D1217C3BD52007080A0 /* icon0.png in Resources */,
+				243E6D1317C3BD52007080A0 /* icon1.png in Resources */,
+				243E6D1417C3BD52007080A0 /* icon2.png in Resources */,
+				243E6D1517C3BD52007080A0 /* icon3.png in Resources */,
+				243E6D1617C3BD52007080A0 /* icon4.png in Resources */,
+				243E6D1717C3BD52007080A0 /* icon5.png in Resources */,
+				243E6D1817C3BD52007080A0 /* media.png in Resources */,
+				243E6D1917C3BD52007080A0 /* no more complaint.png in Resources */,
+				243E6D1A17C3BD52007080A0 /* Why Appcoda.doc in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -177,6 +243,7 @@
 				243E6CE717C3B359007080A0 /* main.m in Sources */,
 				243E6CEB17C3B359007080A0 /* wygjywAppDelegate.m in Sources */,
 				243E6CF717C3B359007080A0 /* wygjywViewController.m in Sources */,
+				243E6CFF17C3B62E007080A0 /* wygjywViewControllerCell.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
