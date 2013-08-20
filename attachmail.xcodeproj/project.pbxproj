@@ -32,6 +32,7 @@
 		243E6D1817C3BD52007080A0 /* media.png in Resources */ = {isa = PBXBuildFile; fileRef = 243E6D0B17C3BD52007080A0 /* media.png */; };
 		243E6D1917C3BD52007080A0 /* no more complaint.png in Resources */ = {isa = PBXBuildFile; fileRef = 243E6D0C17C3BD52007080A0 /* no more complaint.png */; };
 		243E6D1A17C3BD52007080A0 /* Why Appcoda.doc in Resources */ = {isa = PBXBuildFile; fileRef = 243E6D0D17C3BD52007080A0 /* Why Appcoda.doc */; };
+		243E6D1C17C3BF75007080A0 /* MessageUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 243E6D1B17C3BF75007080A0 /* MessageUI.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -66,6 +67,7 @@
 		243E6D0B17C3BD52007080A0 /* media.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = media.png; sourceTree = "<group>"; };
 		243E6D0C17C3BD52007080A0 /* no more complaint.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "no more complaint.png"; sourceTree = "<group>"; };
 		243E6D0D17C3BD52007080A0 /* Why Appcoda.doc */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Why Appcoda.doc"; sourceTree = "<group>"; };
+		243E6D1B17C3BF75007080A0 /* MessageUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MessageUI.framework; path = System/Library/Frameworks/MessageUI.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -73,6 +75,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				243E6D1C17C3BF75007080A0 /* MessageUI.framework in Frameworks */,
 				243E6CDB17C3B359007080A0 /* UIKit.framework in Frameworks */,
 				243E6CDD17C3B359007080A0 /* Foundation.framework in Frameworks */,
 				243E6CDF17C3B359007080A0 /* CoreGraphics.framework in Frameworks */,
@@ -103,6 +106,7 @@
 		243E6CD917C3B359007080A0 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				243E6D1B17C3BF75007080A0 /* MessageUI.framework */,
 				243E6CDA17C3B359007080A0 /* UIKit.framework */,
 				243E6CDC17C3B359007080A0 /* Foundation.framework */,
 				243E6CDE17C3B359007080A0 /* CoreGraphics.framework */,
